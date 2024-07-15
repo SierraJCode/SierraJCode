@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,nodejs,nestjs,postman,mongodb,git,python,java,ngrx" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,nodejs,nestjs,postman,mongodb,git,python,java,rxjs" />
   </a>
 </p>
